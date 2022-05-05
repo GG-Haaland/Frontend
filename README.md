@@ -15,7 +15,7 @@
 ## **_Summary_**
 
 For my capstone project, I decided to create a place where you could not only buy but also sell or give away your children's clothing or equipment that they grew out of. Instead of buying new clothes when your kid grows out of them... buy a used set. Save some money and save the environment. Similar looking to Etsy users will have the ability to post an item they wither want to sell or give away. They will have the ability to edit the update and delete the post as well.
-![Hierarchy](./readme_img/flowchart.png)
+![Hierarchy](./readme_img/flow_chart.png)
 
 ## **_Front End_**
 
