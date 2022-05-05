@@ -8,7 +8,7 @@
 
 ## Technologies Used:
 
-### Github, Trello, VS Code, Vue, Django
+### Github, Trello, VS Code, Vue, Django,
 
 ---
 
