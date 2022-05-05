@@ -31,7 +31,7 @@ For my database i will use Django and it will consist of posts, comments, and us
 
 ## **_Resources_**
 
-### - [Trello]()
+### - [Trello](https://trello.com/b/ItY6vv9L/handmedown)
 
 ### - [Github](https://github.com/GG-Haaland/Frontend)
 
