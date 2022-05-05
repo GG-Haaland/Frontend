@@ -25,7 +25,7 @@ I will build a fully functional Vue app with a landing page where you will be ab
 ## **_Back End_**
 
 For my database i will use Django and it will consist of posts, comments, and users. You will have the ability to add a new user by registering and logging in with full CRUD on all three models.
-![ERD]()
+![ERD](./readme_img/erd.png)
 
 ---
 
