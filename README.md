@@ -1,4 +1,4 @@
-# **HandMeDown**
+
 
 <!-- <div align="center">
   <img alt="Logo" src="https://yusong.space/wp-content/uploads/2022/05/Ellipse-1.png" width="100" />
@@ -27,7 +27,7 @@
 
 ---
 
-#### GJ Haaland| [GITHUB](https://github.com/GG-Haaland) | [LINKEDIN](https://www.linkedin.com/in/gj-haaland-b3b131b7/)
+#### GJ Haaland | [GITHUB](https://github.com/GG-Haaland) | [LINKEDIN](https://www.linkedin.com/in/gj-haaland-b3b131b7/)
 
 ## Technologies Used:
 
