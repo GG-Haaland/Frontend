@@ -49,21 +49,21 @@ const Nav = ({ user, handleLogOut }) => {
                   </li>
                   <li className="navLinks"> Welcome  </li>
                   <li className="navLinks">
-                    {/* <Link className="navLinks" to={"/feed"}>
-                      Feed
-                    </Link> */}
-                    Feed
+                    <Link className="navLinks" to={"/feed"}>
+                      Posts
+                    </Link>
+                    
                   </li>
                   <li className="navLinks">
                     {/* <Link className="navLinks" user={user} to={"/createPost"}>
                       Create Post
                     </Link> */}
-                    Profile
+                 
                   </li>
                   <li className="navLinks">
-                    {/* <Link className="navLinks" to={"/profile"}>
-                      Profile
-                    </Link> */}
+                    <Link className="navLinks" to={"/profile"}>
+                      Profiles
+                    </Link>
                   </li>
                   <li className="navLinks">
                     {/* <Link className="navLinks" onClick={handleLogOut} to="/">

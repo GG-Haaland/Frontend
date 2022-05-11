@@ -2,7 +2,10 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Nav from './components/Nav';
 import Home from './pages/Home';
+import Feed from './pages/Feed';
+import Profile from './pages/Profile';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
@@ -11,15 +14,11 @@ function App() {
       <main >
       <Routes>
         <Route path="/" exact element={<Home/>} />
-        {/* <Route path="/createAccount" exact element={<NewAccount/>} />
-        <Route path="/login" exact element={<Login setUser={setUser} toggleAuthenticated={toggleAuthenticated} />} />
-        <Route path="/createPost" exact element={<CreatePost user={user} authenticated={authenticated}/>} />
-        <Route path="/feed" exact element={<Feed user={user} authenticated={authenticated} />} />
-        <Route path="/edit" exact element={<EditUser user={user} setUser={setUser}  authenticated={authenticated} />} />
-        <Route path="/profile" exact element={<Profile user={user} authenticated={authenticated} />} /> */}
+        <Route path="/feed" exact element={<Feed/>} />
+        <Route path="/profile" exact element={<Profile/>} />
       </Routes>
       </main>
-      {/* <footer className='footer'>About Us</footer> */}
+      <footer className='footer'>About Us</footer>
 
    </Router>
   );
