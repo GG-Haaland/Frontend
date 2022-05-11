@@ -33,7 +33,7 @@ const PostCard = ({ post }) => {
             </Card.Subtitle>
             <Card.Text>
               <div>
-              {`${post.user}`} 
+              {`${post.user }`} 
               </div>
             </Card.Text>
           </Card.Body>
